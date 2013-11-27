@@ -6,6 +6,6 @@ public class TooDoo {
 	  return this.foo;
 	}
 	public void setFoo(String foo) {
-	  this.foo = foo;
+	  this.foo = foo; 
 	}
 }
